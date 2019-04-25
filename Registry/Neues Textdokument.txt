@@ -1,0 +1,24 @@
+get strings from filename
+PREFIX XXX filename XXX suffix 
+
+EXPLORATION:
+
+Categories
+collection_XXX family_hogwartsschool XXX_name
+Pages
+collection_XXX pages_dada_classroom
+Items NORMAL
+collection_XXX items_flesheatingslugs XXX_name"
+collection_XXX items_flesheatingslugs XXX_return_location"
+collection_XXX items_flesheatingslugs XXX_description
+
+FOLDER CHALLENGES
+Categories:
+collection_family_challenges_jokeproducts_name
+PAGES:
+collection_pages_cha_joke_products0001
+Items CHALLENGES
+
+collection_items_cha_XXX hor_tomriddlesdiary XXX_name"
+collection_items_cha_XXX tomriddlesdiary_return_location"
+collection_items_cha_XXX tomriddlesdiary_description"
